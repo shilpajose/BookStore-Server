@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "3a45",
+      "bookname": "Pathummayude Aadu",
+      "authorname": "Vaikom Muhammad Basheer",
+      "publishername": "‎DC Books",
+      "image": "https://i.postimg.cc/W1F9gLFY/Cover-for-Pathummayude-Aadu.jpg",
+      "price": "100"
+    },
+    {
+      "id": "5a1b",
+      "bookname": "Wings of Fire",
+      "authorname": "Dr. A. P. J. Abdul Kalam",
+      "publishername": "Universities Press",
+      "image": "https://i.postimg.cc/D0QtLVSb/Wings-of-Fire-by-A-P-J-Abdul-Kalam-Book-Cover.jpg",
+      "price": "200"
+    },
+    {
+      "id": "930b",
+      "bookname": "Mahatma Gandhi",
+      "authorname": "M. K. Gandhi",
+      "publishername": "rue Sign Publishing House",
+      "image": "https://i.postimg.cc/SKpC1wRK/content.jpg",
+      "price": "250"
+    },
+    {
+      "id": "7853",
+      "bookname": "ummachu",
+      "authorname": "Uroob",
+      "publishername": "H and C Publishing ",
+      "image": "https://i.postimg.cc/5tP3KLK0/Ummachu.jpg",
+      "price": "150"
+    },
+    {
+      "id": "4fea",
+      "bookname": "Aami",
+      "authorname": "Madhavikutty",
+      "publishername": "‎Insight Publica",
+      "image": "https://i.postimg.cc/WbGbGntM/Aami-1.jpg",
+      "price": "115"
+    },
+    {
+      "id": "2422",
+      "bookname": "Neypayasam",
+      "authorname": "Madhavikutty",
+      "publishername": "‎DC Books",
+      "image": "https://i.postimg.cc/j5WG0TBP/neypayasam.jpg",
+      "price": "100"
+    },
+    {
+      "id": "f0fb",
+      "bookname": "Abc",
+      "authorname": "dc",
+      "publishername": "‎DC Books",
+      "image": "https://i.postimg.cc/W1F9gLFY/Cover-for-Pathummayude-Aadu.jpg",
+      "price": "100"
+    }
+  ]
+}
